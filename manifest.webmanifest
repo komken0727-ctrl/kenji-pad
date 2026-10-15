@@ -1,0 +1,16 @@
+{
+  "name": "クレーン機種提案",
+  "short_name": "クレーン提案",
+  "description": "現場の寸法と吊荷から、メインブーム・ジブで使えるクレーン機種を提案します",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#d97706",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
