@@ -3,7 +3,7 @@
  * 一度開いたあとは電波のない現場でも動くよう、アプリのファイルを端末に保存する。
  * アプリを更新したときは VERSION を上げる（古いキャッシュを削除して入れ替える）。
  */
-var VERSION = "crane-plan-locked-1792299759324";
+var VERSION = "crane-plan-locked-1792300232566";
 var FILES = [
   "./",
   "index.html",
